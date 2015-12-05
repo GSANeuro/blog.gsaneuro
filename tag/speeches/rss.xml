@@ -1,22 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?>
 
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-   
-      <title>biomadeira.github.io/jasper/</title>
-   
-   <link>http://biomadeira.github.io/jasper/</link>
-   <description>A beautiful narrative written with the world's most elegant publishing platform. The story begins here.</description>
-   <language>en-uk</language>
-   <managingEditor> Casper McFadden</managingEditor>
-   <atom:link href="rss" rel="self" type="application/rss+xml" />
-   
+---
+layout: atom
+title: nil
+---
+
 	<item>
 	  <title>I Have a Dream</title>
-	  <link>/jasper//i-have-a-dream</link>
-	  <author>Casper McFadden</author>
-	  <pubDate>1963-08-28T11:18:00+01:00</pubDate>
-	  <guid>/jasper//i-have-a-dream</guid>
+	  <link>//i-have-a-dream</link>
+	  <author></author>
+	  <pubDate>1963-08-28T06:18:00-04:00</pubDate>
+	  <guid>//i-have-a-dream</guid>
 	  <description><![CDATA[
 	     <p>I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.</p>
 
@@ -121,10 +114,10 @@
 
 	<item>
 	  <title>The Purpose of Education</title>
-	  <link>/jasper//the-purpose-of-education</link>
-	  <author>Casper McFadden</author>
-	  <pubDate>1948-12-12T10:18:00+00:00</pubDate>
-	  <guid>/jasper//the-purpose-of-education</guid>
+	  <link>//the-purpose-of-education</link>
+	  <author></author>
+	  <pubDate>1948-12-12T05:18:00-05:00</pubDate>
+	  <guid>//the-purpose-of-education</guid>
 	  <description><![CDATA[
 	     <p>As I engage in the so-called &quot;bull sessions&quot; around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the &quot;brethren&quot; think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.</p>
 
@@ -147,6 +140,3 @@
 	  ]]></description>
 	</item>
 
-
-</channel>
-</rss>
