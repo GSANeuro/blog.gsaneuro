@@ -1,71 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://blog.gsaneuro.com//a-full-and-comprehensive-style-test</loc>
-    <lastmod>2014-09-27T06:18:00-04:00</lastmod>
+    <loc>http://blog.gsaneuro.com//2016/01/20/the-phd-starter-kit/</loc>
+    <lastmod>2016-01-20T18:01:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.gsaneuro.com//the-businessman-and-fisherman</loc>
-    <lastmod>2014-08-12T06:18:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://blog.gsaneuro.com//i-have-a-dream</loc>
-    <lastmod>1963-08-28T06:18:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://blog.gsaneuro.com//the-purpose-of-education</loc>
-    <lastmod>1948-12-12T05:18:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://blog.gsaneuro.com//out-to-sea</loc>
-    <lastmod>1912-07-24T05:18:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://blog.gsaneuro.com//looking-glass-house</loc>
-    <lastmod>1871-03-18T05:18:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://blog.gsaneuro.com//down-the-rabbit-hole</loc>
-    <lastmod>1865-11-26T05:18:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://blog.gsaneuro.com//gettysburg-address</loc>
-    <lastmod>1863-11-19T05:18:00-05:00</lastmod>
+    <loc>http://blog.gsaneuro.com//2016/01/20/welcome-to-neuroblog/</loc>
+    <lastmod>2016-01-20T18:00:00-05:00</lastmod>
   </url>
   <url>
     <loc>http://blog.gsaneuro.com//404.html</loc>
   </url>
   <url>
-    <loc>http://blog.gsaneuro.com//about.html</loc>
+    <loc>http://blog.gsaneuro.com//about/</loc>
   </url>
   <url>
-    <loc>http://blog.gsaneuro.com//author/cornelius/</loc>
-  </url>
-  <url>
-    <loc>http://blog.gsaneuro.com//author/casper/</loc>
-  </url>
-  <url>
-    <loc>http://blog.gsaneuro.com//author/</loc>
+    <loc>http://blog.gsaneuro.com//editors/casper/</loc>
   </url>
   <url>
     <loc>http://blog.gsaneuro.com//</loc>
   </url>
   <url>
-    <loc>http://blog.gsaneuro.com//tag/fiction/</loc>
+    <loc>http://blog.gsaneuro.com//editors/cornelius/</loc>
   </url>
   <url>
-    <loc>http://blog.gsaneuro.com//tag/fiction/page2/</loc>
+    <loc>http://blog.gsaneuro.com//editors/</loc>
   </url>
   <url>
-    <loc>http://blog.gsaneuro.com//tag/speeches/</loc>
+    <loc>http://blog.gsaneuro.com//tag/neuroblog/</loc>
   </url>
   <url>
-    <loc>http://blog.gsaneuro.com//tag/fables/</loc>
+    <loc>http://blog.gsaneuro.com//tag/productivity/</loc>
   </url>
   <url>
-    <loc>http://blog.gsaneuro.com//tag/test/</loc>
-  </url>
-  <url>
-    <loc>http://blog.gsaneuro.com//tag/content/</loc>
+    <loc>http://blog.gsaneuro.com//tag/PhD/</loc>
   </url>
 </urlset>
