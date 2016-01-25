@@ -12,3 +12,13 @@ body {
     -o-font-feature-settings: 'kern' 1;
     text-rendering: geometricPrecision;
 }
+
+html {
+    -webkit-font-variant-ligatures: none;
+    -moz-font-variant-ligatures: none;
+    font-variant-ligatures: none;
+    -webkit-font-feature-settings: 'liga' 0, 'onum' 1, 'kern' 1;
+    -moz-font-feature-settings: 'liga' 0, 'onum' 1, 'kern' 1;
+    -o-font-feature-settings: 'liga' 0, 'onum' 1, 'kern' 1;
+    font-feature-settings: 'liga' 0, 'onum' 1, 'kern' 1;
+}
