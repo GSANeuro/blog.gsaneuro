@@ -15,6 +15,14 @@ body {
     text-rendering: geometricPrecision;*/
 }
 
+h1.author-title {
+    font-size: 4rem;
+}
+
+h1.author-title2 {
+    font-size: 4.3rem;
+}
+
 /*html {
     -webkit-font-variant-ligatures: none;
     -moz-font-variant-ligatures: none;
