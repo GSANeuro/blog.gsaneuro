@@ -36,9 +36,18 @@ title: nil
 
 <p><strong>A: This sound really exciting! I have a question now about the specific types of ERG responses you analyzed. You used the discrete wavelet transform to measure the oscillation frequencies contributing to the a- and b-wave responses in the ERG. What do these two types of waves stand for?</strong></p>
 
-<p><strong>M:</strong> In your retinas, your photoreceptors capture incoming photons (i.e. light) and convert this energy into electrical responses that subsequently activate other specialized retinal cells (e.g., bipolar cells, Müller cells, etc.), ultimately leading to the transmission of visual information to the brain via the optic nerve. Therefore, following a light stimulus, a sequence of bioelectrical retinal events can be measured non-invasively with an electrode located on the eye (e.g., the cornea) or close to it (e.g., the eye lid or temple). The signal thereby obtained represents the ERG. The a- and b-waves are simply the two main (i.e., biggest) waves of the ERG waveform (see figure 1A). The a-wave is the first negative deflection (mostly reflecting the activity of the photoreceptors) and the b-wave is the second positive wave (which accounts mostly for the activity of bipolar and Müller cells).</p>
+<p><strong>M:</strong> In your retinas, your photoreceptors capture incoming photons (i.e. light) and convert this energy into electrical responses that subsequently activate other specialized retinal cells (e.g., bipolar cells, Müller cells, etc.), ultimately leading to the transmission of visual information to the brain via the optic nerve. Therefore, following a light stimulus, a sequence of bioelectrical retinal events can be measured non-invasively with an electrode located on the eye (e.g., the cornea) or close to it (e.g., the eye lid or temple). The signal thereby obtained represents the ERG. The a- and b-waves are simply the two main (i.e., biggest) waves of the ERG waveform (see Figure 1A). The a-wave is the first negative deflection (mostly reflecting the activity of the photoreceptors) and the b-wave is the second positive wave (which accounts mostly for the activity of bipolar and Müller cells).</p>
 
-<p><img src="/assets/images/mathieu-data.png" width="80%" /></p>
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/assets/images/mathieu-data.png" width="80%" /></td>
+    </tr>
+    <tr>
+      <td><em>Figure 1A</em></td>
+    </tr>
+  </tbody>
+</table>
 
 <hr />
 
