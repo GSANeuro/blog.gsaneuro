@@ -6,8 +6,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <!-- [[! Page Meta ]] -->
-    <title>The NeuroBlog</title>
+    <!-- <title>The NeuroBlog</title> -->
     <!-- <meta name="description" content="The NeuroBlog - The official blog of the Graduate Students' Association in Neuroscience at McGill University." /> -->
+    <meta property="og:title" content="The NeuroBlog" />
+    <meta property="og:image" content="assets/images/cover2.jpg" />
+    <meta property="og:description" content="{% if page.url contains ‘fables’ %} {% assign tag_description=’A series of short stories that make you think.’ %} {% elsif page.url contains ‘speeches’ %} {% assign new_cover=’assets/images/cover7.jpg’ %} {% assign tag_description=’Some of the greatest words ever spoken.’ %} {% elsif..." />
+    <meta property="og:url" content="//tag/neuroblog/" />
+    <meta property="og:type" content="website" />
 
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />

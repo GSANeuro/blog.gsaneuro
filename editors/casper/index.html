@@ -6,8 +6,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <!-- [[! Page Meta ]] -->
-    <title>The NeuroBlog</title>
+    <!-- <title>The NeuroBlog</title> -->
     <!-- <meta name="description" content="The NeuroBlog - The official blog of the Graduate Students' Association in Neuroscience at McGill University." /> -->
+    <meta property="og:title" content="The NeuroBlog" />
+    <meta property="og:image" content="assets/images/cover4.jpg" />
+    <meta property="og:description" content="{% assign author = site.data.people[page.author] %} {% if author %} &lt;section class="author-profile inner"&gt; {% if author.image %} &lt;div class="img" style="background-image: url({{ site.baseurl }}{{ author.image }})"&gt;{{ author.name }}’s Picture&lt;/div&gt; {% endif %} &lt;h1 class="author-title"&gt;{{ author.name }}&lt;/h1&gt; {% if author.bio %} &lt;h2..." />
+    <meta property="og:url" content="//editors/casper/" />
+    <meta property="og:type" content="website" />
 
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
