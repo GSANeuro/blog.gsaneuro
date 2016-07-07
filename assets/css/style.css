@@ -45,6 +45,7 @@ pblockquote{
 
   /*Font*/
   font-family: inherit;
+  font-weight: bold;
   font-size: 21px;
   line-height: 1.4;
   color: #666;
@@ -105,8 +106,4 @@ plockquote a:hover{
 
 plockquote em{
   font-style: italic;
-}
-
-plockquote p{
-  font-weight: bold;
 }
