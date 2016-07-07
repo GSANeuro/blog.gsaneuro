@@ -5,6 +5,66 @@ title: nil
 ---
 
 	<item>
+	  <title>Your brain on biased decision-making&#58; an interview with Avinash Vaidya</title>
+	  <link>//2016/07/06/avinash-vaidya-ipn-interview/</link>
+	  <author></author>
+	  <pubDate>2016-07-06T15:01:00-04:00</pubDate>
+	  <guid>//2016/07/06/avinash-vaidya-ipn-interview/</guid>
+	  <description><![CDATA[
+	     <blockquote>
+  <p>In our latest post, we introduce you to some very recent research conducted by Avinash Vaidya, who has just defended his Ph.D. thesis in <a href="https://www.mcgill.ca/decisionlab/home-page">Dr. Lesley Fellows’</a> lab at the Montreal Neurological Institute. Avinash worked with patients with frontal lobe lesions on topics related to decision-making. His <a href="http://www.nature.com/ncomms/2015/151214/ncomms10120/full/ncomms10120.html">first-authored paper in Nature Communications</a> investigates the neural circuitry underlying fixation-based value updating. In other words, Avinash investigated the fact that people are more likely to choose options that they have looked at (fixated) for a longer period of time, even if those options were perceived as less appealing initially. Avinash and Dr. Fellows found that in individuals with damaged dorsomedial prefrontal cortex (PFC), this bias was significantly increased. This allowed them to conclude that the potential role of this brain area is in maintaining unattended values during decision-making. At the same time, other patient groups— those with damaged lateral and ventromedial prefrontal cortices—were even “better” than healthy adults in their decisions: their choices were more consistent with their initial ratings of the objects. <a href="https://blog.gsaneuro.com/editors/">Anastasia Glushko</a> interviewed Avinash for the NeuroBlog and wrote up the main points of their discussion – enjoy!</p>
+</blockquote>
+
+<hr />
+
+<p><strong>A (Anastasia): You suggest in the article that the dorsomedial PFC serves to “maintain the value of unattended options”. Is this mechanism specific for fixation-based updating or does the dorsomedial PFC prevent any external cues from completely “overwriting” our initial value ratings?</strong></p>
+
+<p><strong>AV (Avinash):</strong> I do not think that the role of the dorsomedial frontal lobe in maintaining unattended values is specific to fixation-based value updating. Recent work has examined the role of this region in more ethologically relevant settings, namely in tasks where subjects must decide between ‘exploiting’ available choices and ‘foraging’ for alternative options. These studies have argued that this area has a role in representing the ‘value of foraging’ or the value of alternative decision options in the environment. Similarly, fixations provide a means for exploring, or foraging, in the visual environment. The dorsomedial PFC might help optimize this process by maintaining the values of options that are not currently being attended to. or fixated upon, ensuring that decisions reflect a balance between what is present in the environment, and what is immediately available or currently being attended.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/assets/images/avinash1.png" width="80%" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p><strong>A: You propose that the individuals with ventromedial PFC damage may use different attributes or weigh the attributes differently while assessing value (and this causes them to make “more rational” decisions than the control group). What are the object qualities that are “ignored” or weighted differently in this case?</strong></p>
+
+<p><strong>AV:</strong> A recent study from our lab (<a href="http://www.jneurosci.org/cgi/content/long/35/22/8507">Xia et al., 2015, J.Neurosci</a>) examined this question in the domain of political decision-making. Chenjie Xia, a neurologist working in our lab, examined how the subjective attractiveness and competency of real-life political candidates were reflected in the choices of healthy subjects and subjects with frontal lobe damage in a mock ‘vote.’ Subjects with ventromedial frontal damage used information about the subjective attractiveness of candidates in their voting decisions, just like healthy controls and subjects with frontal lobe damage sparing this area. However, unlike these latter groups, the voting decisions of subjects with ventromedial frontal damage were not influenced by subjective assessments of competency. These results suggest that ventromedial frontal damage affects the weighting of some attributes during valuation, but not others. In particular, weighting of ‘higher-level’ attributes that require more social judgment—such as competency—might be affected by damage to this area, but not other ‘low-level’ attributes. We are currently working on a re-analysis of data from our Nature Communications study to test if ventromedial frontal damage also affected the weighting of aesthetic attributes during value judgment for the artwork stimuli that subjects were asked to rate. Stay tuned to find out…!<br />
+<br /></p>
+<post-blockquote>
+<p>As a causal test, human lesion studies have an important complementary role to correlative measures like functional neuroimaging and electrophysiology, and also provide a bridge to work in animal lesion models.</p>
+</post-blockquote>
+<p><br /></p>
+
+<p><strong>A: You mentioned that the consistency of ratings in the control group was related to age and education. What is the nature of this relationship?</strong></p>
+
+<p><strong>AV:</strong> Increased age and lower education were weakly associated with lower test-retest reliability in healthy subjects’ value ratings. The neural mechanisms underlying this individual variability are not very clear. While there is data suggesting that the ventromedial PFC has some role in controlling the variability of value judgment and value-based choice, we found that damage to this region did not affect the test-retest reliability of value ratings in this study. It is possible that other brain systems (i.e. other intact areas encoding subjective value information) might have helped our subjects with ventromedial PFC damage compensate for this increased variability in value judgment. Alternatively, differences in the measurement of value judgment reliability in this study and past studies could also explain these findings. In either case, these findings open up many questions about the critical contribution of ventromedial PFC for this type of generic value judgment.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/assets/images/avinash.png" width="80%" /></td>
+    </tr>
+    <tr>
+      <td><em>Avinash in Toronto with one of <a href="http://www.brainproject.ca/">The Brain Project’s</a> sculptures</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p><strong>A: How far do you think are we from understanding the neural network underlying value-based decision making? And what is the role of patient studies in this type of research?</strong></p>
+
+<p><strong>AV:</strong> There is a long way to go. There is some agreement as to which key brain regions are involved in value-based decisions, generally speaking. However, the basic neural mechanisms underlying decision behavior, and the specific contributions of these regions, are still heavily disputed. Studies of focal brain damage in patient populations have a lot to offer to this field (and to cognitive neuroscience more generally!), as this method remains the best-established way to test the necessity of a brain region for a behavior of interest. As a causal test, human lesion studies have an important complementary role to correlative measures like functional neuroimaging and electrophysiology, and also provide a bridge to work in animal lesion models.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>From 1D to 2D in the electrophysiology of the human retina&#58; an interview with Mathieu Gauvin</title>
 	  <link>//2016/05/26/mathieu-gauvin-ipn-interview/</link>
 	  <author></author>
@@ -793,7 +853,7 @@ If you have anything to add, please <a href="http://achintyarao.in/phdchat">leav
   <p>Rao, A. (2015)<br />
 <em>PhD Starter Kit: Preparing for Life in Academia</em><br />
 Available from: https://raoofphysics.github.io/phd-starter-kit<br />
-[Accessed 26 May 2016]</p>
+[Accessed 07 July 2016]</p>
 </blockquote>
 
 <ul>
@@ -814,7 +874,7 @@ Retrieved from https://raoofphysics.github.io/phd-starter-kit</p>
   <p>Rao, Achintya.<br />
 <em>PhD Starter Kit: Preparing for Life in Academia</em>.<br />
 Achintya Rao, 2016.<br />
-Web. 26 May 2016</p>
+Web. 07 July 2016</p>
 </blockquote>
 
 <p><em>First published</em>: 24 December 2014 at <a href="https://raoofphysics.github.io/phd-starter-kit/">PhD Starter Kit</a> <br />
