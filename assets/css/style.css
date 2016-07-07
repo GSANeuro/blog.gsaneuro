@@ -36,7 +36,7 @@ h1.author-xtitle {
 
 /*blockquotes*/
 
-post-blockquote{
+pblockquote{
   display:block;
   background: #fff;
   padding: 15px 20px 15px 45px;
@@ -45,8 +45,6 @@ post-blockquote{
 
   /*Font*/
   font-family: inherit;
-  font-style: italic;
-  font-weight: bold;
   font-size: 21px;
   line-height: 1.4;
   color: #666;
@@ -62,7 +60,7 @@ post-blockquote{
   box-shadow: 2px 2px 15px #ccc;
 }
 
-post-blockquote::before{
+pblockquote::before{
   content: "\201C"; /*Unicode for Left Double Quote*/
 
   /*Font*/
@@ -77,7 +75,7 @@ post-blockquote::before{
   top:5px;
 }
 
-post-blockquote::after{
+pblockquote::after{
   /*Reset to make sure*/
   content: "\201D";
 
@@ -93,7 +91,7 @@ post-blockquote::after{
   bottom: 5px;
 }
 
-post-blockquote a{
+pblockquote a{
   text-decoration: none;
   background: #eee;
   cursor: pointer;
@@ -101,10 +99,14 @@ post-blockquote a{
   color: #c76c0c;
 }
 
-post-blockquote a:hover{
+plockquote a:hover{
  color: #666;
 }
 
-post-blockquote em{
+plockquote em{
   font-style: italic;
+}
+
+plockquote p{
+  font-weight: bold;
 }
