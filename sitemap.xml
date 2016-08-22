@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://blog.gsaneuro.com//2016/07/06/avinash-vaidya-ipn-interview/</loc>
+    <loc>https://blog.gsaneuro.com//2016/08/22/inab-daou-ipn-interview/</loc>
+    <lastmod>2016-08-22T15:01:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.gsaneuro.com//2016/07/06/avinash-vaidya-ipn-interview%20copy/</loc>
     <lastmod>2016-07-06T15:01:00-04:00</lastmod>
   </url>
   <url>
@@ -49,5 +53,8 @@
   </url>
   <url>
     <loc>https://blog.gsaneuro.com//tag/interview/</loc>
+  </url>
+  <url>
+    <loc>https://blog.gsaneuro.com//page2/</loc>
   </url>
 </urlset>

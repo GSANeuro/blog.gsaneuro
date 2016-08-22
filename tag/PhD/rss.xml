@@ -5,11 +5,68 @@ title: nil
 ---
 
 	<item>
+	  <title>Silencing pain with light: an interview with Ihab Daou</title>
+	  <link>//2016/08/22/inab-daou-ipn-interview/</link>
+	  <author></author>
+	  <pubDate>2016-08-22T15:01:00-04:00</pubDate>
+	  <guid>//2016/08/22/inab-daou-ipn-interview/</guid>
+	  <description><![CDATA[
+	     <blockquote>
+  <p>The NeuroBlog is interviewing again! We’re excited to have the opportunity of speaking with <a href="https://www.researchgate.net/profile/Ihab_Daou"><strong>Ihab Daou</strong></a>, an accomplished PhD student in <a href="http://apps.mni.mcgill.ca/research/seguela/"><strong>Dr. Philippe Seguela’s lab</strong></a> at the Montreal Neurological Institute. In February 2016, Ihab first-authored an article describing a novel transgenic mouse model in which terminals of primary nociceptive fibers can be silenced using optogenetic techniques. In their study, Ihab and his colleagues were able to highlight the role of peripheral neuronal inputs in the onset and maintenance of pain hypersensitivity, and support the involvement of Na<sub>v</sub>1.8<sup>+</sup> afferents in inflammatory and neuropathic pain. They have been able to “silence” fibers classically associated with pain in mice. They believe this non-invasive model will facilitate drug development for pain therapeutics. <a href="https://blog.gsaneuro.com/editors/"><strong>Shannon Tansley</strong></a> had the opportunity to speak with Ihab about his research.</p>
+</blockquote>
+
+<hr />
+
+<h2><i>Pain relief using optogenetics: how does it work?</i></h2>
+
+<p><strong>Shannon (S): Thank you for having found the time to do this interview. Can you tell us how you were able to produce an analgesic effect in animals?</strong></p>
+
+<p><strong>Inab (I)</strong>: Painful stimuli are normally detected by a specialized group of sensory neurons called nociceptors. In order to block pain transmission from the periphery to the central nervous system, we genetically delivered the inhibitory pumps Archaerhodopsin-3 (Arch) to peripheral nociceptors. Arch pumps are activated by orange-yellow light. Since the peripheral nociceptive terminals innervate the superficial layers of the skin, transdermal illumination was sufficient to activate the inhibitory pumps, decrease neuronal activity, reduce nociceptive transmission and therefore produce pain relief.<br /></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/assets/images/ihab.png" width="70%" /></td>
+    </tr>
+    <tr>
+      <td><em>Inab Daou in Montreal</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2><i>The striking advantages of optogenetics in studying pain</i></h2>
+
+<p><strong>S: Optogenetics is becoming increasingly popular for purposes that are typically addressed with pharmacological or genetic measures. Why do you think this novel optogenetic tool is important for pain research and is it implementable in future experiments?</strong></p>
+
+<p><strong>I</strong>: Pharmacological approaches lack temporal control over drug activity, and deficiency in target specificity can lead to severe side effects. On the other hand, genetic tools such as knockouts and ablation strategies do not account for compensation at the cellular and circuit levels.<br />
+An optogenetic approach can overcome these limitations by providing a high spatial and temporal control over neuronal activity. Its temporal precision is conferred by the nature of light and the fast kinetics of the opsins. Spatially, optogenetics allows the modulation of particular groups of neurons through specific genetic targeting as well as local light delivery.<br />
+We have shown bidirectional optogenetic modulation of peripheral afferents, which is instrumental in the future investigation of sensory neurons in the different stages of inflammatory, neuropathic, and cancer pain.</p>
+
+<p><strong>S: Why do you think these Arch-negative afferents play an important role in the onset and maintenance of pain hypersensitivity?</strong></p>
+
+<p><strong>I:</strong> There is evidence that non-nociceptive low-threshold sensory fibers are involved in mediating pain hypersensitivity under chronic conditions. Since our genetic strategy mainly targets nociceptors, we can predict that a subset of primary afferents involved in mediating pain signals does not express Arch pumps and is therefore unaffected by the optical stimulation. This could explain the partial analgesic effects that we detect in our inflammatory and neuropathic models.</p>
+
+<hr />
+
+<h2><i>Optogenetics beyond basic science: a look into the future</i></h2>
+
+<p><strong>S: Do you believe that optogenetics has a role outside of basic research?</strong></p>
+
+<p><strong>I:</strong> The optogenetic approach is a non-invasive and highly precise method to modulate pain. It confers a previously unachieved spatiotemporal accuracy that overcomes the spatial and temporal limitations of pharmacological drugs.<br />
+Currently, the translation of this technology to humans is hampered by the delivery of transgenic opsins to the nervous system. Viral delivery would be the most suited approach, where opsins can be packaged into viruses and viral expression can be genetically restricted to specific neuronal populations ensuring high cellular selectivity.<br />
+Regarding opsin activation, wireless light delivery devices have been developed and successfully tested in rodents to optogenetically control neuronal activity. Such devices can be adapted to humans to achieve safe optical stimulations.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Your brain on biased decision-making&#58; an interview with Avinash Vaidya</title>
-	  <link>//2016/07/06/avinash-vaidya-ipn-interview/</link>
+	  <link>//2016/07/06/avinash-vaidya-ipn-interview%20copy/</link>
 	  <author></author>
 	  <pubDate>2016-07-06T15:01:00-04:00</pubDate>
-	  <guid>//2016/07/06/avinash-vaidya-ipn-interview/</guid>
+	  <guid>//2016/07/06/avinash-vaidya-ipn-interview%20copy/</guid>
 	  <description><![CDATA[
 	     <blockquote>
   <p>In our latest post, we introduce you to some very recent research conducted by Avinash Vaidya, who has just defended his Ph.D. thesis in <a href="https://www.mcgill.ca/decisionlab/home-page">Dr. Lesley Fellows’</a> lab at the Montreal Neurological Institute. Avinash worked with patients with frontal lobe lesions on topics related to decision-making. His <a href="http://www.nature.com/ncomms/2015/151214/ncomms10120/full/ncomms10120.html">first-authored paper in Nature Communications</a> investigates the neural circuitry underlying fixation-based value updating. In other words, Avinash investigated the fact that people are more likely to choose options that they have looked at (fixated) for a longer period of time, even if those options were perceived as less appealing initially.<br />
@@ -859,7 +916,7 @@ If you have anything to add, please <a href="http://achintyarao.in/phdchat">leav
   <p>Rao, A. (2015)<br />
 <em>PhD Starter Kit: Preparing for Life in Academia</em><br />
 Available from: https://raoofphysics.github.io/phd-starter-kit<br />
-[Accessed 14 July 2016]</p>
+[Accessed 22 August 2016]</p>
 </blockquote>
 
 <ul>
@@ -880,7 +937,7 @@ Retrieved from https://raoofphysics.github.io/phd-starter-kit</p>
   <p>Rao, Achintya.<br />
 <em>PhD Starter Kit: Preparing for Life in Academia</em>.<br />
 Achintya Rao, 2016.<br />
-Web. 14 July 2016</p>
+Web. 22 August 2016</p>
 </blockquote>
 
 <p><em>First published</em>: 24 December 2014 at <a href="https://raoofphysics.github.io/phd-starter-kit/">PhD Starter Kit</a> <br />
