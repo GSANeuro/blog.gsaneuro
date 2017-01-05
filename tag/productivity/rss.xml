@@ -119,7 +119,7 @@ However, these following methods have largely worked for me over the last year.<
 
 <p>As a distance-learning student, I don’t get to meet my supervisors nearly enough.<br />
 However, I keep a dedicated notebook (a <a href="http://www.moleskine.com/en/collections/model/product/ruled-notebook-large">ruled, large Moleskine</a>, in this case) for all the conversations I have with them, in person or via VoIP.<br />
-I also jot down ideas, <code>TODO</code> items and reminders in this notebook (before transferring them to other channels, see below), and keep the book with me nearly all the time.</p>
+I also jot down ideas, <code class="highlighter-rouge">TODO</code> items and reminders in this notebook (before transferring them to other channels, see below), and keep the book with me nearly all the time.</p>
 
 <p>I also have an <a href="https://evernote.com/">Evernote</a> notebook for recording longer, more detailed notes to myself, and whenever I come across an event (such as a conference) that seems interesting, I file it away in a spreadsheet on <a href="https://drive.google.com">Google Drive</a>.<br />
 But I really prefer taking notes by putting pen to paper; I seem to retain more information that way, although maybe that’s just my selection bias speaking.</p>
@@ -128,7 +128,7 @@ But I really prefer taking notes by putting pen to paper; I seem to retain more 
 
 <h3 id="todo-lists">TODO lists</h3>
 
-<p>Many of you may have a day job while pursuing your PhD, and will therefore have at least three categories of <code>TODO</code> items:</p>
+<p>Many of you may have a day job while pursuing your PhD, and will therefore have at least three categories of <code class="highlighter-rouge">TODO</code> items:</p>
 
 <ul>
   <li>personal</li>
@@ -142,7 +142,7 @@ One method that has had some measure of success with me is the…</p>
 
 <h4 id="bullet-journal">Bullet Journal</h4>
 
-<p>The <a href="http://www.bulletjournal.com/">Bullet Journal</a> method is an “analogue” technique for maintaining your <code>TODO</code> lists.<br />
+<p>The <a href="http://www.bulletjournal.com/">Bullet Journal</a> method is an “analogue” technique for maintaining your <code class="highlighter-rouge">TODO</code> lists.<br />
 The entire process is well articulated on the website itself, so I won’t go into details here, except to say that I use a version of it called <a href="http://www.jamesgowans.com/hybrid/">Hybrid Journal</a> (without <em>Trickle Lists</em>) and have a custom key that is relevant to me.<br />
 I use this method along with…</p>
 
@@ -151,7 +151,7 @@ I use this method along with…</p>
 <p>I was introduced to <a href="https://asana.com/">Asana</a> by a <a href="https://twitter.com/neuroamanda">friend</a> around a year ago, and have been using it on and off for long-term planning of my activities.<br />
 As a PhD student, you will often need to plan well into the future, with many external deadlines looming ahead: progress reports, vivas, conference submissions etc.<br />
 Many of these have smaller sub-tasks, and this is where Asana comes in.<br />
-You can define projects for yourself and create <code>TODO</code> lists under them with notes.<br />
+You can define projects for yourself and create <code class="highlighter-rouge">TODO</code> lists under them with notes.<br />
 This doesn’t replace Bullet Journal, but it helps show me the bigger picture.<br />
 And it also sends reminders straight to my…</p>
 
@@ -210,9 +210,9 @@ You can then append a bibliography at the end of the document with ease.</p>
 
 <p>Although, I prefer storing my text in <a href="#markdown">Markdown</a> files, I still rely on Zotero’s LibreOffice integration, as there’s no trivial way of adding citations and then generating a bibliography in a Markdown file.<br />
 So, my workflow for integrating Zotero and Markdown involves a plugin called <a href="http://zotero-odf-scan.github.io/zotero-odf-scan/">RTF/ODF-Scanfor Zotero</a>.<br />
-This plugin uses something known as “<a href="http://zoteromusings.wordpress.com/2013/05/06/announcing-rtfodf-scan-for-zotero/">citation markers</a>”, which look this: <code>{ | Miller, 2001 | | |zu:1225849:UVVC45VN}</code>.<br />
+This plugin uses something known as “<a href="http://zoteromusings.wordpress.com/2013/05/06/announcing-rtfodf-scan-for-zotero/">citation markers</a>”, which look this: <code class="highlighter-rouge"><span class="p">{</span><span class="w"> </span><span class="err">|</span><span class="w"> </span><span class="err">Miller,</span><span class="w"> </span><span class="err">2001</span><span class="w"> </span><span class="err">|</span><span class="w"> </span><span class="err">|</span><span class="w"> </span><span class="err">|zu:1225849:UVVC45VN</span><span class="p">}</span></code>.<br />
 These markers can be inserted into any type of document as they are essentially plain text.<br />
-The trick is to then convert the <code>.md</code> file into <code>.odt</code> (once again, turning to pandoc), and then use the plugin to convert the markers into real citations (and subsequently bibliographies) in your document.<br />
+The trick is to then convert the <code class="highlighter-rouge">.md</code> file into <code class="highlighter-rouge">.odt</code> (once again, turning to pandoc), and then use the plugin to convert the markers into real citations (and subsequently bibliographies) in your document.<br />
 It is relatively painless, and provides a lot of flexibility in exchange for convenience.<br />
 Of course, there might be simpler ways of doing this, but this is what works for me.<br />
 I might even set up <a href="http://en.wikipedia.org/wiki/Automator_%28software%29">Automator</a> to do most of the work for me.</p>
@@ -230,18 +230,19 @@ The University of New South Wales has a <a href="https://student.unsw.edu.au/ann
 <p>I recommend two ways of going about with your annotated bibliography:</p>
 
 <ol>
-  <li>If you use Zotero, you can use the <code>Extras</code> field to store your notes along with each document.<br />
+  <li>If you use Zotero, you can use the <code class="highlighter-rouge">Extras</code> field to store your notes along with each document.<br />
 Emory University has a <a href="http://guides.main.library.emory.edu/c.php?g=49913&amp;p=323640">detailed guide on doing this</a> and you can also check out <a href="https://forums.zotero.org/discussion/73/annotated-bibliography/">this discussion on the Zotero forum</a>.</li>
   <li>I prefer instead to maintain mine as a <a href="#markdown">Markdown</a> file stored on <a href="#penflip">Penflip</a>.<br />
 The advantage of this is that I have the full history of my additions and changes to the bibliography (more on this below, under <a href="#version-control">Version Control</a>).<br />
-I store my notes themselves as a quote (demarceted by <code>&gt;</code>) below the bibliography entry, so it looks something like this:</li>
+I store my notes themselves as a quote (demarceted by <code class="highlighter-rouge">&gt;</code>) below the bibliography entry, so it looks something like this:</li>
 </ol>
 
-<pre><code>- Miller, S. (2001) Public understanding of science at the crossroads.
+<div class="highlighter-rouge"><pre class="highlight"><code>- Miller, S. (2001) Public understanding of science at the crossroads.
 Public Understanding of Science. 10 (1), pp. 115–120.
 &gt; Miller's important piece on the evolving relation between science
 and society is…
 </code></pre>
+</div>
 
 <h2 id="directory-structure">Directory Structure</h2>
 
@@ -249,7 +250,7 @@ and society is…
 As with other aspects that I have mentioned here, different approaches work for different people, so my main suggestion is to build hierarchies that makes sense to you.<br />
 I’ve described what seems to fit my use-case.</p>
 
-<p>Rather than using top-level directories that are based on file-type (<code>Documents</code>, <code>Pictures</code>, <code>Videos</code>, etc.), I find it preferable to have my directories based on projects.<br />
+<p>Rather than using top-level directories that are based on file-type (<code class="highlighter-rouge">Documents</code>, <code class="highlighter-rouge">Pictures</code>, <code class="highlighter-rouge">Videos</code>, etc.), I find it preferable to have my directories based on projects.<br />
 So, I have one mega folder in my home directory that serves as the primary location for most of my PhD-related files.<br />
 But since I also use the likes of <a href="#github">GitHub</a> and <a href="#penflip">Penflip</a> for my research files, I have one top-level directory for each of those platforms, with sub-directories storing individual projects.<br />
 In addition, I have files and folders stored on the cloud:</p>
@@ -261,23 +262,24 @@ In addition, I have files and folders stored on the cloud:</p>
 </ul>
 
 <p>As you can see, this leaves me with a rather scattered set of files, distributed over many different (unrelated) directories.<br />
-My solution is to use <a href="http://support.apple.com/en-us/HT202754"><code>Tags</code></a> on OS X to mark files and folders that relate to my PhD and use <a href="http://support.apple.com/kb/PH19078?viewlocale=en_GB"><code>Smart Folders</code></a> to display them in a single virtual directory.<br />
-If you’re on Windows, look into <a href="http://windows.microsoft.com/en-us/windows/libraries-faq"><code>Libraries</code></a> for a similar functionality.</p>
+My solution is to use <a href="http://support.apple.com/en-us/HT202754"><code class="highlighter-rouge">Tags</code></a> on OS X to mark files and folders that relate to my PhD and use <a href="http://support.apple.com/kb/PH19078?viewlocale=en_GB"><code class="highlighter-rouge">Smart Folders</code></a> to display them in a single virtual directory.<br />
+If you’re on Windows, look into <a href="http://windows.microsoft.com/en-us/windows/libraries-faq"><code class="highlighter-rouge">Libraries</code></a> for a similar functionality.</p>
 
 <p>Another thing to remember is that not all folders are equal.<br />
 My second-level directories are generally grouped hierarchically.<br />
-For example, sub-directories under my primary PhD directory have the prefix <code>01</code>, <code>02</code>, <code>03</code> for priority-based sorting.<br />
+For example, sub-directories under my primary PhD directory have the prefix <code class="highlighter-rouge">01</code>, <code class="highlighter-rouge">02</code>, <code class="highlighter-rouge">03</code> for priority-based sorting.<br />
 However, other sub-directories may need to be grouped by date (for example, in a directory devoted to conferences/seminars/lectures).<br />
-I recommend using a nomenclature based from the <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO date format</a> as it helps you sort your directories quickly: generally <code>YYYYMM</code> should suffice.<br />
+I recommend using a nomenclature based from the <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO date format</a> as it helps you sort your directories quickly: generally <code class="highlighter-rouge">YYYYMM</code> should suffice.<br />
 So my directory for conferences and its sub-directories might look something like this:</p>
 
-<pre><code>- 03_Events
+<div class="highlighter-rouge"><pre class="highlight"><code>- 03_Events
 	- 201412_ConfName
 		- 01_PreConference
 		- 02_DuringConference
 		- 03_PostConference
  	- 201502_Seminar
 </code></pre>
+</div>
 
 <p>Finally, I want to briefly mention remote file systems, such as <a href="http://en.wikipedia.org/wiki/Distributed_File_System_%28Microsoft%29">DFS</a>.<br />
 CERN provides a DFS service, which I use to store confidential/sensitive files (more on this under <a href="#encryption">Encryption</a>).<br />
@@ -288,11 +290,11 @@ Your university/institution may provide you with these, and I recommend checking
 
 <p>It would be an understatement to say that I am not a fan of MS Word.<br />
 Not that I suggest you only use <a href="#latex">LaTeX</a> (if at all), but MS Word has got to be one of the worst tools for sharing academic files.<br />
-Given that you will probably circulate drafts to your supervisors and colleagues for comments, you quickly end up with files named <code>20150220_conf_v6_AR.docx</code> or worse (and this is assuming that you do the sensible thing of naming your files and folders based on the <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO date format</a>), with no obvious way of comparing different versions of the file.</p>
+Given that you will probably circulate drafts to your supervisors and colleagues for comments, you quickly end up with files named <code class="highlighter-rouge">20150220_conf_v6_AR.docx</code> or worse (and this is assuming that you do the sensible thing of naming your files and folders based on the <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO date format</a>), with no obvious way of comparing different versions of the file.</p>
 
 <p>If, however, you are familiar with MS Word and prefer not to use something drastically different to it, I recommend <a href="http://www.libreoffice.org/">LibreOffice</a> or <a href="https://www.openoffice.org/">OpenOffice</a>.<br />
-They are free, open-source tools that can open and save files in the <code>.doc(x)</code> format if needed.<br />
-But most importantly, they have <a href="https://eeperry.wordpress.com/2014/01/15/libreoffice-version-control/">basic functionality</a> for <a href="#version-control">version control</a> built in: <code>File</code> → <code>Versions</code> (hat-tip to my brother, Aditya, for pointing this out to me).<br />
+They are free, open-source tools that can open and save files in the <code class="highlighter-rouge">.doc(x)</code> format if needed.<br />
+But most importantly, they have <a href="https://eeperry.wordpress.com/2014/01/15/libreoffice-version-control/">basic functionality</a> for <a href="#version-control">version control</a> built in: <code class="highlighter-rouge">File</code> → <code class="highlighter-rouge">Versions</code> (hat-tip to my brother, Aditya, for pointing this out to me).<br />
 Newer releases of MS Word don’t have this feature.<br />
 I don’t use Google Drive for my academic documentation, but I know that you can see the history of any of your files on it (albeit without the control of manually creating versions).</p>
 
@@ -302,10 +304,10 @@ I don’t use Google Drive for my academic documentation, but I know that you ca
 
 <p>If you’re unfamiliar with <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, I recommend checking out <a href="http://markdowntutorial.com/">this Markdown tutorial</a>.<br />
 Markdown files are essentially plaintext files, with a custom syntax.<br />
-You can use a tool called <a href="http://johnmacfarlane.net/pandoc/">pandoc</a> to convert Markdown (<code>.md</code>) files into a variety of formats including HTML, <code>.odt</code>/<code>.doc(x)</code>, PDF via LaTeX and LaTeX itself.<br />
+You can use a tool called <a href="http://johnmacfarlane.net/pandoc/">pandoc</a> to convert Markdown (<code class="highlighter-rouge">.md</code>) files into a variety of formats including HTML, <code class="highlighter-rouge">.odt</code>/<code class="highlighter-rouge">.doc(x)</code>, PDF via LaTeX and LaTeX itself.<br />
 Online tools such as <a href="#penflip">Penflip</a>, which I will address below, also use the Markdown syntax and convert it into a variety of formats for you.</p>
 
-<p>Pandoc’s conversion to PDF is particularly useful, because you can use LaTeX commands such as <code>\newpage</code> inside your <code>.md</code> file, and pandoc will do the rest.</p>
+<p>Pandoc’s conversion to PDF is particularly useful, because you can use LaTeX commands such as <code class="highlighter-rouge">\newpage</code> inside your <code class="highlighter-rouge">.md</code> file, and pandoc will do the rest.</p>
 
 <p>On the academic side so far, I use(d) Markdown for my:</p>
 
@@ -315,7 +317,7 @@ Online tools such as <a href="#penflip">Penflip</a>, which I will address below,
   <li>survey draft</li>
 </ul>
 
-<p>I export the <code>.md</code> files to <code>.odt</code>/<code>.doc(x)</code>, send them for comments to my supervisors, and incorporate the suggestions/edits back into the <code>.md</code> file.<br />
+<p>I export the <code class="highlighter-rouge">.md</code> files to <code class="highlighter-rouge">.odt</code>/<code class="highlighter-rouge">.doc(x)</code>, send them for comments to my supervisors, and incorporate the suggestions/edits back into the <code class="highlighter-rouge">.md</code> file.<br />
 By using <a href="#git">Git</a>, I retain a full version history of my file, with “commit messages” that accompany every change I save and “tags” for major revisions, so I can compare versions as I need.<br />
 (Note: Git has a bit of a learning curve as well, but I’ll cover some excellent tools that simplify its use, under <a href="#version-control">Version Control</a>.)</p>
 
@@ -327,7 +329,7 @@ I use the “<a href="https://atom.io/packages/zen">Zen</a>” plugin for Atom, 
 
 <h3 id="latex">LaTeX</h3>
 
-<p><a href="http://www.latex-project.org/">LaTeX</a>, pronounced <code>lah-tekh</code> or <code>lay-tekh</code>, is a typesetting system, used extensively in academic publishing.<br />
+<p><a href="http://www.latex-project.org/">LaTeX</a>, pronounced <code class="highlighter-rouge">lah-tekh</code> or <code class="highlighter-rouge">lay-tekh</code>, is a typesetting system, used extensively in academic publishing.<br />
 I have close to zero experience with LaTeX, so I’m not in a position to wax eloquent on it.<br />
 However, if you are familiar with Markdown but feel that you would rather have LaTeX files instead, Will Styler describes how you can <a href="http://savethevowels.org/essays/markdowndissertation.html">write a dissertation in LaTeX using Markdown</a>.<br />
 (Note: I have not used Will’s method and cannot vouch for it.)<br />
@@ -338,15 +340,15 @@ Be sure, though, to use <a href="#git">Git</a> with your files.</p>
 <h2 id="version-control">Version Control</h2>
 
 <p>As you may have guessed from the many mentions of it in this post so far, I am a huge fan of version control.<br />
-Version control (or revision control) is used extensively in the world of programming and computer science, but doesn’t seem to be used nearly enough in academia (and I’m not talking about saving your files themselves as <code>v1</code>, <code>v2</code> etc.).<br />
+Version control (or revision control) is used extensively in the world of programming and computer science, but doesn’t seem to be used nearly enough in academia (and I’m not talking about saving your files themselves as <code class="highlighter-rouge">v1</code>, <code class="highlighter-rouge">v2</code> etc.).<br />
 Of course, academics might use it for software programs and code, but it is also useful for writing and documentation.<br />
-There are many methods of versioning your documents, and, as I’ve suggested above, if you need to use <code>.doc(x)</code> files, you might want to use <a href="http://www.libreoffice.org/">LibreOffice</a> or <a href="https://www.openoffice.org/">OpenOffice</a> instead of MS Word (and encourage your colleagues to do the same!).<br />
+There are many methods of versioning your documents, and, as I’ve suggested above, if you need to use <code class="highlighter-rouge">.doc(x)</code> files, you might want to use <a href="http://www.libreoffice.org/">LibreOffice</a> or <a href="https://www.openoffice.org/">OpenOffice</a> instead of MS Word (and encourage your colleagues to do the same!).<br />
 I will, however, focus mainly on…</p>
 
 <h3 id="git">Git</h3>
 
 <p><a href="http://git-scm.com/">Git</a> is a distributed revision-control system built by <a href="https://en.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</a> of Linux fame.<br />
-If you are familiar with terminal commands, you might consider using the command-line interface of Git, which can be augmented with tools such as <a href="https://github.com/tj/git-extras"><code>git extras</code></a>.<br />
+If you are familiar with terminal commands, you might consider using the command-line interface of Git, which can be augmented with tools such as <a href="https://github.com/tj/git-extras"><code class="highlighter-rouge">git extras</code></a>.<br />
 If you prefer not to, there are a wealth of tools and platforms at your disposal that greatly lower the threshold for using Git:</p>
 
 <h4 id="penflip">Penflip</h4>
@@ -376,7 +378,7 @@ Although mainly designed for code, people have used the service to collaborative
 GitHub <a href="https://education.github.com/">offers free private repositories to students and teachers</a>.<br />
 Alternatives to GitHub that offer free repositories independent of your student status include <a href="https://bitbucket.org/features">BitBucket</a> and <a href="https://about.gitlab.com/">GitLab</a>.</p>
 
-<p>The aforementioned Sunrise <a href="#calendars">calendar</a> also syncs my GitHub <code>Milestones</code>, which makes sure that I’m always informed of upcoming deadlines for my projects.</p>
+<p>The aforementioned Sunrise <a href="#calendars">calendar</a> also syncs my GitHub <code class="highlighter-rouge">Milestones</code>, which makes sure that I’m always informed of upcoming deadlines for my projects.</p>
 
 <p>Meta aside: This website itself is hosted on GitHub Pages, and has <a href="https://github.com/RaoOfPhysics/phd-starter-kit">its own repository</a>.</p>
 
@@ -440,14 +442,14 @@ I even have a little python script that spits out a random eight-character strin
 
 <!--- Using Liquid tags for syntax highlighting, ignore Markdown preview on Atom -->
 
-<div class="highlight"><pre><code class="language-python" data-lang="python"><span class="c"># generate a random string of eight (8) characters.</span>
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="c"># generate a random string of eight (8) characters.</span>
 <span class="c"># Source: http://cern.ch/go/Sm6J</span>
 <span class="c"># coding: utf-8</span>
 <span class="kn">import</span> <span class="nn">string</span>
 <span class="kn">import</span> <span class="nn">random</span>
 <span class="k">def</span> <span class="nf">id_generator</span><span class="p">(</span><span class="n">size</span><span class="o">=</span><span class="mi">8</span><span class="p">,</span> <span class="n">chars</span><span class="o">=</span><span class="n">string</span><span class="o">.</span><span class="n">ascii_uppercase</span> <span class="o">+</span> <span class="n">string</span><span class="o">.</span><span class="n">digits</span><span class="p">):</span>
-<span class="k">return</span> <span class="s">&#39;&#39;</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">random</span><span class="o">.</span><span class="n">SystemRandom</span><span class="p">()</span><span class="o">.</span><span class="n">choice</span><span class="p">(</span><span class="n">chars</span><span class="p">)</span> <span class="k">for</span> <span class="n">_</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">size</span><span class="p">))</span>
-<span class="k">print</span> <span class="n">id_generator</span><span class="p">()</span></code></pre></div>
+<span class="k">return</span> <span class="s">''</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">random</span><span class="o">.</span><span class="n">SystemRandom</span><span class="p">()</span><span class="o">.</span><span class="n">choice</span><span class="p">(</span><span class="n">chars</span><span class="p">)</span> <span class="k">for</span> <span class="n">_</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">size</span><span class="p">))</span>
+<span class="k">print</span> <span class="n">id_generator</span><span class="p">()</span></code></pre></figure>
 
 <p>Before you go ahead and invest yourself in this language, be sure to look into its <a href="http://www.stat.washington.edu/~hoytak/blog/whypython.html">pros</a> and <a href="http://programmers.stackexchange.com/questions/15468/what-are-the-drawbacks-of-python">cons</a>.<br />
 However, if you do decide to use Python for data analysis, you might want to check out the book helpfully titled, er, <a href="http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793">Python for Data Analysis</a>.<br />
@@ -517,7 +519,7 @@ This means that if someone looks up your name, they will see a list of users wit
 Another thing is to make it simple for people to find and cite it.<br />
 Most papers published today have what is called a <a href="http://www.doi.org/"><em>digital object identifiers</em> or DOIs</a>.<br />
 DOIs provide persistent links to scholarly work, and will never change even if the online content they point to moves location.<br />
-For example, <a href="http://www.sciencedirect.com/science/article/pii/S0370269312008581">this paper on the discovery of the Higgs boson</a> can be found at <code>http://www.sciencedirect.com/science/article/pii/S0370269312008581</code> and has a DOI <code>10.1016/j.physletb.2012.08.021</code>.<br />
+For example, <a href="http://www.sciencedirect.com/science/article/pii/S0370269312008581">this paper on the discovery of the Higgs boson</a> can be found at <code class="highlighter-rouge">http://www.sciencedirect.com/science/article/pii/S0370269312008581</code> and has a DOI <code class="highlighter-rouge">10.1016/j.physletb.2012.08.021</code>.<br />
 Even if the URL to this paper changes, the DOI will always point you to the correct location: you can access it at <a href="http://dx.doi.org/10.1016/j.physletb.2012.08.021">http://dx.doi.org/10.1016/j.physletb.2012.08.021</a>.<br />
 Although browsers don’t natively resolve DOIs as URLs, you can install plugins <a href="https://addons.mozilla.org/en-US/firefox/addon/cnri-handle-extension-for-fire/">for Firefox</a> and <a href="https://chrome.google.com/webstore/detail/doi-resolver/goanbaknlbojfglcepjnankoobfakbpg">for Chrome</a> that do this for you.</p>
 
@@ -536,7 +538,7 @@ It serves as a repository for the so-called “long tail” of research and can 
   <li><a href="https://zenodo.org/collection/theses?ln=en">Theses</a></li>
   <li><a href="https://zenodo.org/collection/photos?ln=en">Photos</a> and <a href="https://zenodo.org/collection/figures?ln=en">figures</a></li>
   <li><a href="https://zenodo.org/collection/videos?ln=en">Video/audio</a></li>
-  <li><a href="https://zenodo.org/collection/software?ln=en">Code</a>: That’s right, <code>code</code>! Thanks to <a href="https://guides.github.com/activities/citable-code/">ZENODO’s GitHub integration</a>, you can make the software packages and analysis code you used in your research into citable objects with DOIs.<br />
+  <li><a href="https://zenodo.org/collection/software?ln=en">Code</a>: That’s right, <code class="highlighter-rouge">code</code>! Thanks to <a href="https://guides.github.com/activities/citable-code/">ZENODO’s GitHub integration</a>, you can make the software packages and analysis code you used in your research into citable objects with DOIs.<br />
 This feature alone makes ZENODO supremely interesting to me.</li>
 </ul>
 
@@ -579,15 +581,15 @@ However, don’t use more than three colours for the text on your slides.</li>
   <li>Avoid verbs.<br />
 Yeah, this one is a little weird, but verbs make sentences, and you should really avoid full sentences.<br />
 All you will tend to do with sentences is look at your slides and read from them.</li>
-  <li>If you are using MS PowerPoint, don’t save your final file with the <code>.ppt(x)</code> extension.<br />
-Instead, save it as <code>.pps</code>: this will make your file open straight into presentation mode.<br />
-No more pressing <code>F5</code>.<br />
+  <li>If you are using MS PowerPoint, don’t save your final file with the <code class="highlighter-rouge">.ppt(x)</code> extension.<br />
+Instead, save it as <code class="highlighter-rouge">.pps</code>: this will make your file open straight into presentation mode.<br />
+No more pressing <code class="highlighter-rouge">F5</code>.<br />
 (Or save your file as a PDF — this limits any compatibility issues you may face across machines and operating systems.)</li>
   <li>Provide supporting documents.
     <ul>
-      <li>If you are talking to a small audience, hand them each a PDF of your slides to make annotations: <code>File</code> → <code>Print</code> → <code>Print What</code>: <code>Handouts (3 slides per page)</code> → <code>Save as PDF</code></li>
+      <li>If you are talking to a small audience, hand them each a PDF of your slides to make annotations: <code class="highlighter-rouge">File</code> → <code class="highlighter-rouge">Print</code> → <code class="highlighter-rouge">Print What</code>: <code class="highlighter-rouge">Handouts (3 slides per page)</code> → <code class="highlighter-rouge">Save as PDF</code></li>
       <li>Insert notes below each slide when you are preparing the presentation.<br />
-  That way, you can prepare a separate “Notes” PDF for circulating after your talk, so people who may have missed the presentation itself can learn what was shown: <code>File</code> → <code>Print</code> → <code>Print What</code>: <code>Notes</code> → <code>Save as PDF</code></li>
+  That way, you can prepare a separate “Notes” PDF for circulating after your talk, so people who may have missed the presentation itself can learn what was shown: <code class="highlighter-rouge">File</code> → <code class="highlighter-rouge">Print</code> → <code class="highlighter-rouge">Print What</code>: <code class="highlighter-rouge">Notes</code> → <code class="highlighter-rouge">Save as PDF</code></li>
     </ul>
   </li>
 </ul>
@@ -691,7 +693,7 @@ If you have anything to add, please <a href="http://achintyarao.in/phdchat">leav
   <p>Rao, A. (2015)<br />
 <em>PhD Starter Kit: Preparing for Life in Academia</em><br />
 Available from: https://raoofphysics.github.io/phd-starter-kit<br />
-[Accessed 22 August 2016]</p>
+[Accessed 04 January 2017]</p>
 </blockquote>
 
 <ul>
@@ -712,7 +714,7 @@ Retrieved from https://raoofphysics.github.io/phd-starter-kit</p>
   <p>Rao, Achintya.<br />
 <em>PhD Starter Kit: Preparing for Life in Academia</em>.<br />
 Achintya Rao, 2016.<br />
-Web. 22 August 2016</p>
+Web. 04 January 2017</p>
 </blockquote>
 
 <p><em>First published</em>: 24 December 2014 at <a href="https://raoofphysics.github.io/phd-starter-kit/">PhD Starter Kit</a> <br />
