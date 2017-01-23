@@ -1,0 +1,104 @@
+
+---
+layout: atom
+title: nil
+---
+
+	<item>
+	  <title>Do I deserve to be a PhD student?: A discussion about the impostor phenomenon</title>
+	  <link>//2017/01/23/impostor-syndrome/</link>
+	  <author></author>
+	  <pubDate>2017-01-23T06:01:00-05:00</pubDate>
+	  <guid>//2017/01/23/impostor-syndrome/</guid>
+	  <description><![CDATA[
+	     <blockquote>
+
+  <p>Do you feel like everyone in your program or department is more intelligent than you? You may be experiencing impostor phenomenon. Our newest neuroblog article by Anastasia Sares explains the phenomenon and presents data from a short questionnaire administered to IPN students.</p>
+
+</blockquote>
+
+<p>In the 1970s, Pauline Clance and Suzanne Imes identified a set of feelings in their university students and graduates known as “The impostor phenomenon”. People who experience impostor phenomenon (IP) “… maintain a strong belief that they are not intelligent; in fact they are convinced that they have fooled anyone who thinks otherwise.” (Clance &amp; Imes, 1978).</p>
+
+<p>Now, I’m not sure if I’m marked by a complete inability to internalize my successes, but being in a doctoral program does challenge me to the point where, at times, I’m not sure I belong. It’s a common story. Many of us have grown up building our identity around our competence and intelligence. This is what led us to graduate school in the first place. But when we got here, we found that we were surrounded by people just as competent and intelligent as us— some even more so. We began to doubt. To minimize our earlier accomplishments. To be afraid to ask questions that might show our ignorance.</p>
+
+<p>A 2011 Scientific American <a href="http://www.nature.com/scientificamericanmind/journal/v22/n1/full/scientificamericanmind0311-32.html" target="_blank">article</a> by Birgit Spinath highlighted the fact that IP may be related to attributional style (e.g. Peterson et al., 1982). In other words, people with IP may perceive success to be due to external factors (like over-preparation) and situations (nice reviewers, easy questions). Failure, on the other hand, is viewed as internal, stable, and global. The same vocabulary is used to talk about depression, and indeed there seems to be a link between depression and IP.</p>
+
+<p>Spinath’s article says it’s unclear whether IP affects women disproportionately, as depression does; though early articles from Clance herself focused specifically on women, and some have suggested that female dropout in higher education is partially due to impostor phenomenon.</p>
+
+<p>Dr. Clance created a <a href="http://paulineroseclance.com/pdf/IPscoringtest.pdf" target="_blank">short questionnaire</a> for people who might be experiencing impostor phenomenon (note that this is not a diagnostic tool; it’s only for the purposes of self-help). We decided to take this questionnaire to IPN members and see how they measured up. A survey of 30 students (15 female, 15 male) revealed a shocking average score of 71 +/- 13. This is well into the range for impostor phenomenon, according to Clance, although only scores above 80 correspond to “intense” IP experiences. No one in our sample scored below 40, which is Clance’s cutoff between no IP and mild IP feelings.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/assets/images/impostor1.png" width="80%" /></td>
+    </tr>
+    <tr>
+      <td><em>Score Distribution</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Scores tended to decrease with number of years in the IPN, indicating perhaps that confidence increases with experience in a graduate setting. Males also had a lower average score than females. However, neither of these trends was significant with all participants pooled together (rs &lt; -0.233; ps &gt; 0.143). A different story emerged when we split the data by gender: we found that males’ scores did decrease significantly over time (r = -0.555; p = 0.0317), whereas females’ scores did not (r = 0.0019; p = 0.995).</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/assets/images/impostor2.png" width="80%" /></td>
+    </tr>
+    <tr>
+      <td><em>Score by year in IPN</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Of course, we need to be cautious with this sample, as it likely consisted of the most active and responsive IPN members, who may have a different profile than other graduate students. Also, many people who filled the questionnaire had already heard of impostor phenomenon before, either from someone else in academia or on the internet.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/assets/images/impostor3.png" width="80%" /></td>
+    </tr>
+    <tr>
+      <td><em>1) Have you heard about impostor phenomenon? 2) Where did you hear about it?</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p>Knowing about impostor phenomenon is all well and good, but what do you do when you find yourself (like I did) sitting up at midnight wondering whether it would be socially acceptable for you to drop out of your degree? How does one deal with impostor feelings? Here are a few ways to get started:</p>
+
+<ol>
+  <li><em>Realize that it’s not just you</em>. You are not the first person to feel like this. That alone can be immensely comforting. In fact, you know the people you compare yourself to, wishing you could be smart, organized, or confident like them? Some of them probably feel like impostors too.</li>
+  <li>
+    <p><em>Review your accomplishments</em>. Go back to your CV, and instead of looking at what’s lacking, look at what’s there. See how many milestones you’ve crossed and how far you’ve come. Compare yourself to yourself.</p>
+  </li>
+  <li><em>Realize that it’s not all bad</em>. “Good” and “bad” personality traits are often two sides of the same coin. See Zachary Lippman’s short post: An ego can be a <a href="http://www.nature.com/naturejobs/science/articles/10.1038/nj7220-418c" target="_blank">dangerous monster</a>.</li>
+  <li><em>Reach out</em>. McGill’s <a href=""></a> <a href="https://www.mcgill.ca/counselling/" target="_blank">counseling service</a> is in place to help you sort through these kind of thoughts, as are your peers. Don’t go through this alone.</li>
+</ol>
+
+<hr />
+
+<h4 id="references">References:</h4>
+
+<blockquote>
+  <p>Clance, P.R., &amp; Imes, S. A. (1978).<br />
+The impostor phenomenon in high achieving women: Dynamics and therapeutic intervention.<br />
+<em>Psychotherapy: Theory, Research, and Practice</em>, 15(3), 241-247.</p>
+</blockquote>
+
+<blockquote>
+  <p>Spinath, B. (2011).<br />
+Great Pretenders.<br />
+<em>Scientific American Mind</em>, 22(1), 32–37. <a href="http://doi.org/10.1525/si.1997.20.3.315">http://doi.org/10.1525/si.1997.20.3.315</a></p>
+</blockquote>
+
+<blockquote>
+  <p>Peterson, C., Semmel, A., von Baeyer, C., Abramson, L., Metalsky, G., &amp; Seligman, M. (1982).<br />
+The Attributional Style Questionnaire.<br />
+<em>Cognitive Therapy and Research</em>, 6(3), 287–300.</p>
+</blockquote>
+
+	  ]]></description>
+	</item>
+
