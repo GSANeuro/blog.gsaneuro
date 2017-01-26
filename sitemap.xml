@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://blog.gsaneuro.com//2017/01/26/stigma-mental-illness/</loc>
+<lastmod>2017-01-26T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>https://blog.gsaneuro.com//2017/01/24/impostor-phenomenon/</loc>
 <lastmod>2017-01-24T04:02:00-05:00</lastmod>
 </url>
@@ -67,5 +71,11 @@
 </url>
 <url>
 <loc>https://blog.gsaneuro.com//tag/IPN/</loc>
+</url>
+<url>
+<loc>https://blog.gsaneuro.com//tag/lets-talk/</loc>
+</url>
+<url>
+<loc>https://blog.gsaneuro.com//tag/mental-illness/</loc>
 </url>
 </urlset>
