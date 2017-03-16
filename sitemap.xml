@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://blog.gsaneuro.com//2017/03/16/peer-support-program/</loc>
+<lastmod>2017-03-16T06:01:00-04:00</lastmod>
+</url>
+<url>
 <loc>https://blog.gsaneuro.com//2017/01/26/stigma-mental-illness/</loc>
 <lastmod>2017-01-26T00:00:00-05:00</lastmod>
 </url>
@@ -43,13 +47,13 @@
 <loc>https://blog.gsaneuro.com//about/</loc>
 </url>
 <url>
-<loc>https://blog.gsaneuro.com//editors/cornelius/</loc>
+<loc>https://blog.gsaneuro.com//editors/casper/</loc>
 </url>
 <url>
 <loc>https://blog.gsaneuro.com//editors/</loc>
 </url>
 <url>
-<loc>https://blog.gsaneuro.com//editors/casper/</loc>
+<loc>https://blog.gsaneuro.com//editors/cornelius/</loc>
 </url>
 <url>
 <loc>https://blog.gsaneuro.com//</loc>
@@ -79,6 +83,6 @@
 <loc>https://blog.gsaneuro.com//tag/mental-illness/</loc>
 </url>
 <url>
-<loc>https://blog.gsaneuro.com//page2/</loc>
+<loc>https://blog.gsaneuro.com//tag/peer-support/</loc>
 </url>
 </urlset>
